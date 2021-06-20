@@ -26,4 +26,4 @@ HTML, CSS, JavaScript (for coding and implementation on UI) VS Code (as Editor) 
 How to run code in this repo?
 To run this app, click live github website link given below. OR clone the repo locally.
 
-Repo Link to clone :Live Page link: https://faisal-kalwar.github.io/BMI-CALCULATOR/
+Repo Link to clone :Live Page link: https://faisal-kalwar.github.io/BMI-CALCULATOR/ 
